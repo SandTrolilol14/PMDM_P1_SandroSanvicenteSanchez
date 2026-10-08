@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BrewTrack</string>
+    <string name="title_main">Coffee Log</string>
+    <string name="btn_save">Save Brew</string>
+    <string name="hint_origin">Bean origin (e.g., Ethiopia, Colombia)</string>
+    <string name="label_method">Brewing method:</string>
+    <string name="welcome_message">Welcome, %1$s</string>
+    <string name="error_empty">Field cannot be empty</string>
+    <string name="rating_label">Cup rating</string>
+
+    <string-array name="metodos_extraccion">
+        <item>Espresso</item>
+        <item>V60</item>
+        <item>AeroPress</item>
+        <item>French Press</item>
+    </string-array>
+</resources>

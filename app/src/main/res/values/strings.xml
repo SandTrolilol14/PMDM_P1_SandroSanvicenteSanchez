@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CaféNotas</string>
+    <string name="title_main">Registro de Café</string>
+    <string name="btn_save">Guardar Cata</string>
+    <string name="hint_origin">Origen del grano (Ej: Etiopía, Colombia)</string>
+    <string name="label_method">Método de extracción:</string>
+    <string name="welcome_message">Bienvenido, %1$s</string>
+    <string name="error_empty">El campo no puede estar vacío</string>
+    <string name="rating_label">Puntuación de la taza</string>
+
+    <string-array name="metodos_extraccion">
+        <item>Espresso</item>
+        <item>V60</item>
+        <item>AeroPress</item>
+        <item>Prensa Francesa</item>
+    </string-array>
+</resources>

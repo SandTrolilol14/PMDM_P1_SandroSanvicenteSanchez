@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema principal -->
+    <style name="Base.Theme.PMDM_P1_SandroSanvicenteSanchez" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/color_primario</item>
+        <item name="colorAccent">@color/color_acento</item>
+        <item name="android:windowBackground">@color/color_fondo</item>
+    </style>
+
+    <!-- Estilo 1 -->
+    <style name="EstiloTitulo">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/color_primario</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <!-- Estilo 2 -->
+    <style name="EstiloBotonSecundario">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:backgroundTint">@color/color_acento</item>
+        <item name="android:textColor">@color/color_fondo</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
